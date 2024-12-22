@@ -1,0 +1,41 @@
+# .NET specific
+**/bin/
+**/obj/
+**/appsettings.json
+**/appsettings.Development.json
+**/appsettings.Production.json
+
+# VS Code specific
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+build/
+dist/
+
+# React specific
+**/build/
+**/public/
+**/node_modules/
+**/coverage/
+
+# Ignore package-lock.json (optional)
+package-lock.json

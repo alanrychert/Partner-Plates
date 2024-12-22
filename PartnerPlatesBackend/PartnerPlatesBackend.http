@@ -1,0 +1,6 @@
+@PartnerPlatesBackend_HostAddress = http://localhost:8080
+
+GET {{PartnerPlatesBackend_HostAddress}}/payment/
+Accept: application/json
+
+###
